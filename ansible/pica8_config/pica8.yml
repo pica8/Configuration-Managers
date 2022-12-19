@@ -1,0 +1,9 @@
+---
+# This playbook deployes configuration file of pica project
+# Change 'hosts' section according your needs
+
+- hosts: pica-config
+  remote_user: root
+
+  roles:
+    - pica8_config

@@ -1,0 +1,3 @@
+
+config_dir: '/pica/config'
+config_file: 'ansible_pica.conf'
