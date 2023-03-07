@@ -1,3 +1,0 @@
----
-- name: load_config
-  command: /bin/bash /pica/bin/cli -c "configure;load override {{config_dir}}/{{config_file}}"
